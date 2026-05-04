@@ -1,0 +1,50 @@
+{"timestamp": "2026-05-04T10:43:44.565405", "input": {"server_region": 3, "concurrent_players": 1527, "packet_size_kb": 4.1, "is_ranked_match": 1}, "prediction": 67.49850000000006}
+{"timestamp": "2026-05-04T10:43:46.620509", "input": {"server_region": 2, "concurrent_players": 6330, "packet_size_kb": 3.6, "is_ranked_match": 0}, "prediction": 83.72329999999987}
+{"timestamp": "2026-05-04T10:43:48.687515", "input": {"server_region": 3, "concurrent_players": 1527, "packet_size_kb": 4.1, "is_ranked_match": 1}, "prediction": 67.49850000000006}
+{"timestamp": "2026-05-04T10:43:50.738066", "input": {"server_region": 3, "concurrent_players": 1283, "packet_size_kb": 4.8, "is_ranked_match": 1}, "prediction": 86.84079999999996}
+{"timestamp": "2026-05-04T10:43:52.798132", "input": {"server_region": 3, "concurrent_players": 6270, "packet_size_kb": 1.2, "is_ranked_match": 0}, "prediction": 70.88080000000001}
+{"timestamp": "2026-05-04T10:43:54.854561", "input": {"server_region": 4, "concurrent_players": 9217, "packet_size_kb": 6.3, "is_ranked_match": 0}, "prediction": 131.17820000000003}
+{"timestamp": "2026-05-04T10:43:56.919289", "input": {"server_region": 3, "concurrent_players": 6989, "packet_size_kb": 5.2, "is_ranked_match": 1}, "prediction": 107.5428999999999}
+{"timestamp": "2026-05-04T10:43:58.986950", "input": {"server_region": 3, "concurrent_players": 6270, "packet_size_kb": 1.2, "is_ranked_match": 0}, "prediction": 70.88080000000001}
+{"timestamp": "2026-05-04T10:44:01.025246", "input": {"server_region": 5, "concurrent_players": 2051, "packet_size_kb": 5.6, "is_ranked_match": 1}, "prediction": 124.08120000000004}
+{"timestamp": "2026-05-04T10:44:03.089292", "input": {"server_region": 5, "concurrent_players": 1564, "packet_size_kb": 6.1, "is_ranked_match": 1}, "prediction": 135.26390000000006}
+{"timestamp": "2026-05-04T10:44:05.151846", "input": {"server_region": 5, "concurrent_players": 2433, "packet_size_kb": 0.7, "is_ranked_match": 1}, "prediction": 74.98039999999993}
+{"timestamp": "2026-05-04T10:44:07.210509", "input": {"server_region": 5, "concurrent_players": 2433, "packet_size_kb": 0.7, "is_ranked_match": 1}, "prediction": 74.98039999999993}
+{"timestamp": "2026-05-04T10:44:09.262544", "input": {"server_region": 4, "concurrent_players": 9217, "packet_size_kb": 6.3, "is_ranked_match": 0}, "prediction": 131.17820000000003}
+{"timestamp": "2026-05-04T10:44:11.318962", "input": {"server_region": 5, "concurrent_players": 7512, "packet_size_kb": 7.8, "is_ranked_match": 1}, "prediction": 145.107}
+{"timestamp": "2026-05-04T10:44:13.372499", "input": {"server_region": 2, "concurrent_players": 6330, "packet_size_kb": 3.6, "is_ranked_match": 0}, "prediction": 83.72329999999987}
+{"timestamp": "2026-05-04T10:44:15.425715", "input": {"server_region": 3, "concurrent_players": 1527, "packet_size_kb": 4.1, "is_ranked_match": 1}, "prediction": 67.49850000000006}
+{"timestamp": "2026-05-04T10:44:17.471122", "input": {"server_region": 3, "concurrent_players": 1527, "packet_size_kb": 4.1, "is_ranked_match": 1}, "prediction": 67.49850000000006}
+{"timestamp": "2026-05-04T10:44:19.523621", "input": {"server_region": 4, "concurrent_players": 8956, "packet_size_kb": 2.4, "is_ranked_match": 0}, "prediction": 100.18249999999988}
+{"timestamp": "2026-05-04T10:44:21.555371", "input": {"server_region": 4, "concurrent_players": 9217, "packet_size_kb": 6.3, "is_ranked_match": 0}, "prediction": 131.17820000000003}
+{"timestamp": "2026-05-04T10:44:23.604819", "input": {"server_region": 3, "concurrent_players": 1527, "packet_size_kb": 4.1, "is_ranked_match": 1}, "prediction": 67.49850000000006}
+{"timestamp": "2026-05-04T10:44:25.656100", "input": {"server_region": 4, "concurrent_players": 8956, "packet_size_kb": 2.4, "is_ranked_match": 0}, "prediction": 100.18249999999988}
+{"timestamp": "2026-05-04T10:44:27.737325", "input": {"server_region": 5, "concurrent_players": 1564, "packet_size_kb": 6.1, "is_ranked_match": 1}, "prediction": 135.26390000000006}
+{"timestamp": "2026-05-04T10:44:29.790687", "input": {"server_region": 3, "concurrent_players": 4682, "packet_size_kb": 4.4, "is_ranked_match": 0}, "prediction": 76.1795}
+{"timestamp": "2026-05-04T10:44:31.835087", "input": {"server_region": 3, "concurrent_players": 6270, "packet_size_kb": 1.2, "is_ranked_match": 0}, "prediction": 70.88080000000001}
+{"timestamp": "2026-05-04T10:44:33.906454", "input": {"server_region": 2, "concurrent_players": 6330, "packet_size_kb": 3.6, "is_ranked_match": 0}, "prediction": 83.72329999999987}
+{"timestamp": "2026-05-04T10:44:35.974423", "input": {"server_region": 3, "concurrent_players": 1527, "packet_size_kb": 4.1, "is_ranked_match": 1}, "prediction": 67.49850000000006}
+{"timestamp": "2026-05-04T10:44:38.035803", "input": {"server_region": 2, "concurrent_players": 8148, "packet_size_kb": 1.6, "is_ranked_match": 0}, "prediction": 85.27379999999994}
+{"timestamp": "2026-05-04T10:44:40.087154", "input": {"server_region": 4, "concurrent_players": 6580, "packet_size_kb": 5.5, "is_ranked_match": 1}, "prediction": 108.3945}
+{"timestamp": "2026-05-04T10:44:42.154966", "input": {"server_region": 3, "concurrent_players": 1527, "packet_size_kb": 4.1, "is_ranked_match": 1}, "prediction": 67.49850000000006}
+{"timestamp": "2026-05-04T10:44:44.216494", "input": {"server_region": 2, "concurrent_players": 8148, "packet_size_kb": 1.6, "is_ranked_match": 0}, "prediction": 85.27379999999994}
+{"timestamp": "2026-05-04T10:44:46.269597", "input": {"server_region": 5, "concurrent_players": 2433, "packet_size_kb": 0.7, "is_ranked_match": 1}, "prediction": 74.98039999999993}
+{"timestamp": "2026-05-04T10:44:48.322415", "input": {"server_region": 4, "concurrent_players": 6580, "packet_size_kb": 5.5, "is_ranked_match": 1}, "prediction": 108.3945}
+{"timestamp": "2026-05-04T10:44:50.370064", "input": {"server_region": 5, "concurrent_players": 2051, "packet_size_kb": 5.6, "is_ranked_match": 1}, "prediction": 124.08120000000004}
+{"timestamp": "2026-05-04T10:44:52.425893", "input": {"server_region": 4, "concurrent_players": 6580, "packet_size_kb": 5.5, "is_ranked_match": 1}, "prediction": 108.3945}
+{"timestamp": "2026-05-04T10:44:54.473290", "input": {"server_region": 2, "concurrent_players": 3103, "packet_size_kb": 2.7, "is_ranked_match": 1}, "prediction": 53.311100000000025}
+{"timestamp": "2026-05-04T10:44:56.532618", "input": {"server_region": 3, "concurrent_players": 208, "packet_size_kb": 6.0, "is_ranked_match": 0}, "prediction": 107.68489999999993}
+{"timestamp": "2026-05-04T10:44:58.589435", "input": {"server_region": 4, "concurrent_players": 8956, "packet_size_kb": 2.4, "is_ranked_match": 0}, "prediction": 100.18249999999988}
+{"timestamp": "2026-05-04T10:45:00.641293", "input": {"server_region": 5, "concurrent_players": 2433, "packet_size_kb": 0.7, "is_ranked_match": 1}, "prediction": 74.98039999999993}
+{"timestamp": "2026-05-04T10:45:02.688692", "input": {"server_region": 3, "concurrent_players": 208, "packet_size_kb": 6.0, "is_ranked_match": 0}, "prediction": 107.68489999999993}
+{"timestamp": "2026-05-04T10:45:04.741167", "input": {"server_region": 3, "concurrent_players": 1283, "packet_size_kb": 4.8, "is_ranked_match": 1}, "prediction": 86.84079999999996}
+{"timestamp": "2026-05-04T10:45:06.794413", "input": {"server_region": 2, "concurrent_players": 19697, "packet_size_kb": 19.1, "is_ranked_match": 0}, "prediction": -1.0, "error": "validation_error"}
+{"timestamp": "2026-05-04T10:45:08.833798", "input": {"server_region": 3, "concurrent_players": 18844, "packet_size_kb": 17.1, "is_ranked_match": 0}, "prediction": -1.0, "error": "validation_error"}
+{"timestamp": "2026-05-04T10:45:10.884095", "input": {"server_region": 3, "concurrent_players": 18653, "packet_size_kb": 13.6, "is_ranked_match": 0}, "prediction": -1.0, "error": "validation_error"}
+{"timestamp": "2026-05-04T10:45:12.931034", "input": {"server_region": 5, "concurrent_players": 17665, "packet_size_kb": 15.7, "is_ranked_match": 0}, "prediction": -1.0, "error": "validation_error"}
+{"timestamp": "2026-05-04T10:45:14.982912", "input": {"server_region": 3, "concurrent_players": 16830, "packet_size_kb": 16.5, "is_ranked_match": 1}, "prediction": -1.0, "error": "validation_error"}
+{"timestamp": "2026-05-04T10:45:17.037081", "input": {"server_region": 3, "concurrent_players": 15826, "packet_size_kb": 12.5, "is_ranked_match": 0}, "prediction": -1.0, "error": "validation_error"}
+{"timestamp": "2026-05-04T10:45:19.077676", "input": {"server_region": 2, "concurrent_players": 15225, "packet_size_kb": 13.4, "is_ranked_match": 0}, "prediction": -1.0, "error": "validation_error"}
+{"timestamp": "2026-05-04T10:45:21.116512", "input": {"server_region": 4, "concurrent_players": 14010, "packet_size_kb": 13.6, "is_ranked_match": 1}, "prediction": -1.0, "error": "validation_error"}
+{"timestamp": "2026-05-04T10:45:23.161158", "input": {"server_region": 4, "concurrent_players": 13577, "packet_size_kb": 9.5, "is_ranked_match": 1}, "prediction": -1.0, "error": "validation_error"}
+{"timestamp": "2026-05-04T10:45:25.208659", "input": {"server_region": 5, "concurrent_players": 13312, "packet_size_kb": 18.0, "is_ranked_match": 0}, "prediction": -1.0, "error": "validation_error"}

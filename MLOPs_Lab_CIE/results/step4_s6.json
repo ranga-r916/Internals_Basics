@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "gamelag-latency-ms-predictor",
+    "version": 1,
+    "run_id": "a184b9f101754f9c9bfa49d23adbe83e",
+    "source_metric": "mae",
+    "source_metric_value": 33.818560000000005
+}

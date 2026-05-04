@@ -1,0 +1,23 @@
+{
+    "total_predictions": 50,
+    "mean_prediction": 92.9,
+    "drift_detected": true,
+    "alerts": [
+        {
+            "feature": "concurrent_players",
+            "train_mean": 4633.68,
+            "live_mean": 16363.9,
+            "shift": 11730.22,
+            "threshold": 2909.96,
+            "status": "ALERT"
+        },
+        {
+            "feature": "packet_size_kb",
+            "train_mean": 4.88,
+            "live_mean": 14.9,
+            "shift": 10.02,
+            "threshold": 1.48,
+            "status": "ALERT"
+        }
+    ]
+}
